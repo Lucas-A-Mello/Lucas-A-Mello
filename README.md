@@ -2,9 +2,8 @@
 
 
 - 🔭 Atualmente procuro oportunidade de estágio front-end
-- 🌱 Estudando HTML5 | CSS3 | JavaScript | React | NodeJS
+- 🌱 Estudando HTML | CSS | JavaScript | VueJS | NodeJS | C#
 - 📫 Contate-me com o email: lucaamello@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Lucas-A-Mello">
